@@ -8,6 +8,6 @@
  An R program that fits a generalised logistic function. The posterior of the unknown parameters is estimated with a Metropolis algorithm written entirely in R.
  
 ### [03. Adaptive Metropolis algorithm in R](https://keichenseer.netlify.app/post/a-metropolis-algorithm-in-r-part-2-adaptive-proposals/)
- This program expands upon 02. by using adaptation to optimise the proposals of the Metropolis algorithm.
+ This program expands upon *02* by using adaptation to optimise the proposals of the Metropolis algorithm.
  
  
